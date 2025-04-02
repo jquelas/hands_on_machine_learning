@@ -68,9 +68,6 @@ Ensure all dependencies are installed using:
 pip install -r requirements.txt
 ```
 
-## Contributions
-Contributions are welcome! Feel free to fork the repository and submit pull requests for additional chapters or improvements.
-
 ## License
 This project follows the book's licensing guidelines. The code is intended for educational purposes.
 
