@@ -22,7 +22,8 @@ Each chapter folder also contains a dedicated virtual environment (`env`) for de
 - **C6 - Decision Trees**
 - **C7 - Ensemble Learning and Random Forests**
 - **C8 - Dimensionality Reduction**
-- **C9 - Unsupervised Learning Techniques** *(Work in Progress)*
+- **C9 - Unsupervised Learning Techniques**
+- **C10 - Artificial Neural Networks with Keras** *(Work in Progress)*
 
 ## Getting Started
 To use this repository, follow these steps:
