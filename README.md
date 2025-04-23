@@ -23,7 +23,8 @@ Each chapter folder also contains a dedicated virtual environment (`env`) for de
 - **C7 - Ensemble Learning and Random Forests**
 - **C8 - Dimensionality Reduction**
 - **C9 - Unsupervised Learning Techniques**
-- **C10 - Artificial Neural Networks with Keras** *(Work in Progress)*
+- **C10 - Artificial Neural Networks with Keras**
+- **C11 - Training Deep Neural Networks** *(Work in Progress)*
 
 ## Getting Started
 To use this repository, follow these steps:
@@ -56,6 +57,7 @@ The repository requires the following Python libraries:
 - `scikit-learn`
 - `tensorflow`
 - `keras`
+- `scikeras`
 - `numpy`
 - `pandas`
 - `matplotlib`
