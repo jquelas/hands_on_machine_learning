@@ -6,7 +6,7 @@ This repository contains a Python script that uses Keras (via TensorFlow) to bui
 
 This script is built and tested with the following versions of the main libraries:
 
-- **TensorFlow**: `2.18.0`
+- **TensorFlow**: `2.15.0`
 - **scikit-learn**: `1.3.2`
 - **scikeras**: `0.12.0`
 
