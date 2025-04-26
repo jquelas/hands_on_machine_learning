@@ -34,13 +34,16 @@ To use this repository, follow these steps:
    git clone https://github.com/jquelas/hands_on_machine_learning.git
    cd hands_on_machine_learning
    ```
-2. **Navigate to a specific chapter folder:**
+2. **Activate the virtual environment:**
+   ```bash
+   .\env\Scripts\activate  # Windows
+   ```
+   ```bash
+   source env/bin/activate  # Linux/macOS
+   ```
+3. **Navigate to a specific chapter folder:**
    ```bash
    cd "C2 - End-to-End Machine Learning Project"
-   ```
-3. **Activate the virtual environment:**
-   ```bash
-   env\Scripts\activate  # Windows only
    ```
 4. **Install dependencies:**
    ```bash
